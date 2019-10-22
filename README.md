@@ -2,8 +2,8 @@
 Pacotes openssl for termux
 
 
-## TODAS AS DEPENDÊNCIAS:
-	apt update && apt upgrade -y && apt install openssl clang python postgresql libcrypt libffi openssl libsodium make python
+## TODAS AS DEPENDÊNCIAS
+	apt update && apt upgrade -y && apt install wget openssl clang python postgresql libcrypt libffi openssl libsodium make python
 
 
 
